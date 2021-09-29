@@ -3,7 +3,7 @@ Wordlists são arquivos contendo uma palavra por linha. São utilizados em ataqu
 
 ## Requisitos
 - Python
-- Visual Studio Code ou Terminal
+- Pycharm ou Terminal
 
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
